@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-05T16:22:30.099Z'
-dateModified: '2017-06-05T16:22:29.547Z'
+datePublished: '2017-06-05T16:22:57.117Z'
+dateModified: '2017-06-05T16:22:56.377Z'
 description: >-
   Since 2007, I have been counselling individuals, couples, families, and
   therapy groups as a Masters-trained therapist. I am passionate about helping
@@ -11,12 +11,12 @@ via: {}
 sourcePath: _posts/2017-05-21-rod-minaker-ma-counsellingpsychology.md
 title: Rod Minaker MA (Counselling/Psychology)
 hasPage: true
-inFeed: true
+inFeed: false
 author: []
 starred: false
 datePublishedOriginal: '2017-05-21T05:27:20.423Z'
 url: rod-minaker-ma-counsellingpsychology/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af322320-5474-44ff-bbca-acf8abdc9a78.png)
