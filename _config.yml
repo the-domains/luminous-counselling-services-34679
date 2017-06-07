@@ -28,9 +28,6 @@ navigation:
   - name: Services
     id: 58c35905-8f19-49e4-a204-060866c43541
     type: content
-  - name: About Me
-    id: 92433a41-55c4-48e5-83d9-98a9488ff0bd
-    type: content
 title: 'Luminous Counselling Services '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
