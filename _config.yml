@@ -1,0 +1,84 @@
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.8482370655983686
+  lightness: 0.8199397686403245
+  saturation: 0.5898339070845395
+  rhythmicContrast: 0.8332810010761023
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Luminous Counselling Services
+layout_spectrum: 0.4208818420302123
+typography_spectrum: 0.4483575983904302
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/960edaa7-34c2-4ce9-ab99-3bb9653cfcd7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/960edaa7-34c2-4ce9-ab99-3bb9653cfcd7.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6ce277-3083-4b08-aa94-42a42d92c304.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6ce277-3083-4b08-aa94-42a42d92c304.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 'Luminous Counselling Services '
+description: A light for you in dark places!
+purpose:
+  - type: contact
+    url: 'tel:2044308375'
+    label: Call 204-430-8375
+  - type: contact
+    url: 'mailto:rod@luminouscounsellingservices.ca'
+    label: Email
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac610cc-92b0-462f-8a19-1557b44e0b3c.png
+analytics:
+  twitter: '@LuminousChat'
