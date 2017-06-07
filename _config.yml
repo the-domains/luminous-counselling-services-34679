@@ -1,3 +1,4 @@
+typography_spectrum: 0.4483575983904302
 color:
   brandColors:
     - '#96CA2D'
@@ -9,6 +10,13 @@ color:
   lightness: 0.8199397686403245
   saturation: 0.5898339070845395
   rhythmicContrast: 0.8332810010761023
+github: true
+layout_spectrum: 0.4208818420302123
+analytics:
+  twitter: '@LuminousChat'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac610cc-92b0-462f-8a19-1557b44e0b3c.png
+name: Luminous Counselling Services
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,9 +24,14 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Luminous Counselling Services
-layout_spectrum: 0.4208818420302123
-typography_spectrum: 0.4483575983904302
+navigation:
+  - name: Services
+    id: 58c35905-8f19-49e4-a204-060866c43541
+    type: content
+  - name: About Me
+    id: 92433a41-55c4-48e5-83d9-98a9488ff0bd
+    type: content
+title: 'Luminous Counselling Services '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,19 +41,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/960edaa7-34c2-4ce9-ab99-3bb9653cfcd7.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -52,23 +65,22 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6ce277-3083-4b08-aa94-42a42d92c304.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: 'Luminous Counselling Services '
 description: A light for you in dark places!
 purpose:
   - type: contact
@@ -77,8 +89,3 @@ purpose:
   - type: contact
     url: 'mailto:rod@luminouscounsellingservices.ca'
     label: Email
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac610cc-92b0-462f-8a19-1557b44e0b3c.png
-analytics:
-  twitter: '@LuminousChat'
